@@ -335,36 +335,36 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 114,
-            "shift": 82,
+            "primary": 115,
+            "shift": 83,
             "finger": 2,
             "id": 42,
-            "altGr": 112,
-            "shiftAltGr": 80
+            "altGr": 119,
+            "shiftAltGr": 87
         },
         {
             "primary": 101,
             "shift": 69,
             "finger": 3,
             "id": 43,
-            "altGr": 98,
-            "shiftAltGr": 66
+            "altGr": 99,
+            "shiftAltGr": 67
         },
         {
-            "primary": 110,
-            "shift": 78,
+            "primary": 114,
+            "shift": 82,
             "finger": 4,
             "id": 44,
-            "altGr": -1,
-            "shiftAltGr": -1
+            "altGr": 118,
+            "shiftAltGr": 86
         },
         {
             "primary": 108,
             "shift": 76,
             "finger": 4,
             "id": 45,
-            "altGr": 120,
-            "shiftAltGr": 88
+            "altGr": 106,
+            "shiftAltGr": 74
         },
         {
             "primary": -1,
@@ -377,32 +377,32 @@
             "id": 47
         },
         {
-            "primary": 99,
-            "shift": 67,
+            "primary": 104,
+            "shift": 72,
             "finger": 7,
             "id": 48,
-            "altGr": -1,
-            "shiftAltGr": -1
-        },
-        {
-            "primary": 115,
-            "shift": 83,
-            "finger": 7,
-            "id": 49,
             "altGr": 107,
             "shiftAltGr": 75
         },
         {
             "primary": 105,
             "shift": 73,
-            "finger": 8,
-            "id": 50,
-            "altGr": 122,
-            "shiftAltGr": 90
+            "finger": 7,
+            "id": 49,
+            "altGr": 102,
+            "shiftAltGr": 70
         },
         {
             "primary": 116,
             "shift": 84,
+            "finger": 8,
+            "id": 50,
+            "altGr": -1,
+            "shiftAltGr": -1
+        },
+        {
+            "primary": 111,
+            "shift": 79,
             "finger": 9,
             "id": 51,
             "altGr": 109,
@@ -437,8 +437,8 @@
             "finger": 1,
             "id": 55,
             "shift": 65,
-            "altGr": 119,
-            "shiftAltGr": 87
+            "altGr": -1,
+            "shiftAltGr": -1
         },
         {
             "primary": -1,
@@ -449,36 +449,36 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 111,
+            "primary": 117,
             "finger": 3,
             "id": 57,
-            "shift": 79,
-            "altGr": 118,
-            "shiftAltGr": 86
+            "shift": 85,
+            "altGr": 122,
+            "shiftAltGr": 90
         },
         {
-            "primary": 104,
-            "shift": 72,
+            "primary": 110,
+            "shift": 78,
             "finger": 4,
             "id": 58,
-            "altGr": 102,
-            "shiftAltGr": 70
+            "altGr": 98,
+            "shiftAltGr": 66
         },
         {
             "primary": 103,
             "finger": 7,
             "id": 59,
             "shift": 71,
-            "altGr": 106,
-            "shiftAltGr": 74
+            "altGr": 120,
+            "shiftAltGr": 88
         },
         {
             "primary": 100,
             "shift": 68,
             "finger": 8,
             "id": 60,
-            "altGr": 113,
-            "shiftAltGr": 81
+            "altGr": 121,
+            "shiftAltGr": 89
         },
         {
             "primary": -1,
@@ -489,12 +489,12 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 117,
-            "shift": 85,
+            "primary": 112,
+            "shift": 80,
             "finger": 10,
             "id": 62,
-            "altGr": 121,
-            "shiftAltGr": 89
+            "altGr": 113,
+            "shiftAltGr": 81
         },
         {
             "primary": -1,
